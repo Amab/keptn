@@ -12,7 +12,7 @@ require (
 	github.com/go-openapi/swag v0.19.14
 	github.com/go-openapi/validate v0.20.2
 	github.com/google/uuid v1.2.0
-	github.com/jessevdk/go-flags v1.4.0
+	github.com/jessevdk/go-flags v1.5.0
 	github.com/keptn/go-utils v0.8.5-0.20210526102329-8b22839909f4
 	github.com/keptn/kubernetes-utils v0.8.2
 	github.com/stretchr/testify v1.7.0
