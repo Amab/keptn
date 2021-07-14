@@ -24,4 +24,4 @@ jobs:
     - name: checkout
       if: "!contains(github.event_name, 'pull_request')"
       uses: actions/checkout@v2.3.4
-    - uses: check-spelling/check-spelling@v0.0.18
+    - uses: check-spelling/check-spelling@v0.0.19
